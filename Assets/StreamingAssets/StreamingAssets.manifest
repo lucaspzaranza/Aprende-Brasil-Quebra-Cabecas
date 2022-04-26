@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3414419749
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: desktop
+      Dependencies: {}
+    Info_1:
+      Name: mobile
+      Dependencies: {}
